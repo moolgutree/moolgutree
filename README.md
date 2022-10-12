@@ -6,11 +6,11 @@
 
 
 <p align="center>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=f6d365"></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=e2ebf0"></a>&nbsp
-  <img src="https://img.shields.io/badge/Git-fee140?style=for-the-badge&logo=Git&logoColor=F05032"></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-5ee7df?style=for-the-badge&logo=Java&logoColor=4facfe"></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=f6d365">&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=e2ebf0">&nbsp
+  <img src="https://img.shields.io/badge/Git-fee140?style=for-the-badge&logo=Git&logoColor=F05032">&nbsp
+  <img src="https://img.shields.io/badge/Java-5ee7df?style=for-the-badge&logo=Java&logoColor=4facfe">&nbsp
 </p>
 
 <br>
