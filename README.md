@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=0:fbc2eb,100:a6c1ee&height=300&section=header&text=Moolgu%20Tree%20&desc=Dongyang%20Mirae%20University&animation=fadeIn&descAlignY=80&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=0:fbc2eb,100:a6c1ee&height=300&section=header&text=Moolgu%20Tree%20&desc=Lee%20EunJun%20Dongyang%20Mirae%20University&animation=fadeIn&descAlignY=80&fontSize=90)
 <h1> hi good guys</h1>
 <h3> learning or already learned code </h3>
 
