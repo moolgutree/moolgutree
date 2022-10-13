@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=e2ebf0">&nbsp
   <img src="https://img.shields.io/badge/Git-fee140?style=for-the-badge&logo=Git&logoColor=F05032">&nbsp
   <img src="https://img.shields.io/badge/Java-5ee7df?style=for-the-badge&logo=Java&logoColor=4facfe">&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp
 </p>
 
 <br>
