@@ -6,12 +6,15 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=f6d365">&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=e2ebf0">&nbsp
-  <img src="https://img.shields.io/badge/Git-fee140?style=for-the-badge&logo=Git&logoColor=F05032">&nbsp
-  <img src="https://img.shields.io/badge/Java-5ee7df?style=for-the-badge&logo=Java&logoColor=4facfe">&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp
+  <br>
+  <a href="https://github.com/QBteamOSS" target="_blank"><img src="https://img.shields.io/badge/QB%20team%20OSS-e2ebf0?style=for-the-badge&logo=Apostrophe&logoColor=white"/></a>
+  <br>
+  <a href="https://www.hostinger.com/tutorials/what-is-html" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>&nbsp
+  <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=f6d365"></a>&nbsp
+  <a href="https://www.iso.org/home.html" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=e2ebf0"></a>&nbsp
+  <a href="https://git.kernel.org/pub/scm/git/git.git" target="_blank"><img src="https://img.shields.io/badge/Git-fee140?style=for-the-badge&logo=Git&logoColor=F05032"></a>&nbsp
+  <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-5ee7df?style=for-the-badge&logo=Java&logoColor=4facfe"></a>&nbsp
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>&nbsp
 </p>
 
 <br>
