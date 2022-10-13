@@ -24,7 +24,7 @@
   <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
   <a href="https://git.kernel.org/pub/scm/git/git.git" target="_blank"><img src="https://img.shields.io/badge/Git-fee140?style=for-the-badge&logo=Git&logoColor=F05032"></a>&nbsp
   <br>
-  <a href="https://www.oracle.com/kr/"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+  <a href="https://www.oracle.com/kr/"> <img src="https://img.shields.io/badge/Oracle-fee140?style=for-the-badge&logo=Oracle&logoColor=F05032"/>
 
 </p>
 
@@ -33,9 +33,9 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
                   
 <p align="center">
-  <a href="https://twitter.com/moolgutree?t=BIiSFLKCjrmOZMhupXJJWg&s=09"><img src="https://img.shields.io/badge/Twitter-00f2fe?style=flat-square&logo=Twitter&logoColor=#1DA1F2&link=https://twitter.com/moolgutree?t=BIiSFLKCjrmOZMhupXJJWg&s=09"/></a>&nbsp
-  <a href="https://www.instagram.com/moolgutree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/moolgutree/"/></a>&nbsp
-  <a href="mailto:brave3633@naver.com"><img src="https://img.shields.io/badge/Mail-38f9d7?style=flat-square&logo=Mail.Ru&logoColor=white&link=brave3633@naver.com"/></a>
+  <a href="https://twitter.com/moolgutree?t=BIiSFLKCjrmOZMhupXJJWg&s=09"><img src="https://img.shields.io/badge/Twitter-6AFDEF?style=flat-square&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/moolgutree?t=BIiSFLKCjrmOZMhupXJJWg&s=09"/></a>&nbsp
+  <a href="https://www.instagram.com/moolgutree/"><img src="https://img.shields.io/badge/Instagram-6AFDEF?style=flat-square&logo=Instagram&logoColor=F05032&link=https://www.instagram.com/moolgutree/"/></a>&nbsp
+  <a href="mailto:brave3633@naver.com"><img src="https://img.shields.io/badge/Mail(Naver)-6AFDEF?style=flat-square&logo=Mail.Ru&logoColor=03C75A&link=brave3633@naver.com"/></a>
 </p>
 <br>
 
