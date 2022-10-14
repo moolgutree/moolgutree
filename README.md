@@ -13,20 +13,21 @@
   <img src="https://user-images.githubusercontent.com/85077262/195753286-d23bf29a-b6fe-42a4-8df8-4fd95488b6e6.png" width="25px">
   <a href="https://www.hostinger.com/tutorials/what-is-html" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>&nbsp
   <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://user-images.githubusercontent.com/85077262/195753286-d23bf29a-b6fe-42a4-8df8-4fd95488b6e6.png" width="25px">
+  <br>
   <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=f6d365"></a>&nbsp
   <a href="https://www.iso.org/home.html" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=e2ebf0"></a>&nbsp
   <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-5ee7df?style=for-the-badge&logo=Java&logoColor=4facfe"></a>&nbsp
   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img src="https://img.shields.io/badge/SQL-34567C?style=for-the-badge&logo=Adminer&logoColor=4facfe"></a>&nbsp
-  <img src="https://user-images.githubusercontent.com/85077262/195753286-d23bf29a-b6fe-42a4-8df8-4fd95488b6e6.png" width="25px">
   <br>
-  💻
+  <br>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>&nbsp
   <a href="https://atom.io/" target="_blank"><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"></a>&nbsp
   <a href="https://visualstudio.microsoft.com/ko/"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
+  <br>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
   <a href="https://git.kernel.org/pub/scm/git/git.git" target="_blank"><img src="https://img.shields.io/badge/Git-fee140?style=for-the-badge&logo=Git&logoColor=F05032"></a>&nbsp
-  💻
 <br>
 </p>
 
