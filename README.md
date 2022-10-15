@@ -10,7 +10,7 @@
   <a href="https://github.com/QBteamOSS" target="_blank"><img src="https://img.shields.io/badge/QB%20team%20OSS-e2ebf0?style=for-the-badge&logo=Apostrophe&logoColor=white"/></a>
   <br>
   <br>
-<!-- 배우거나 이미 배운 프로그램 언어 --> 
+<!-- 배우거나 이미 배운 프로그램 언어 -->  
   <img src="https://user-images.githubusercontent.com/85077262/195754101-8a3ca706-7e7f-48ef-9497-f6d56f82d5c7.png" width="35px">
   <a href="https://www.hostinger.com/tutorials/what-is-html" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>&nbsp
   <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
