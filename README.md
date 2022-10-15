@@ -4,13 +4,13 @@
 <p></p>
 <h3 align="center">🛠 learning or already learned code 🛠</h3>
 
-
+<!-- OSS 팀 -->
 <p align="center">
-  <br>
+  <br> 
   <a href="https://github.com/QBteamOSS" target="_blank"><img src="https://img.shields.io/badge/QB%20team%20OSS-e2ebf0?style=for-the-badge&logo=Apostrophe&logoColor=white"/></a>
   <br>
   <br>
-
+<!-- 배우거나 이미 배운 프로그램 언어 --> 
   <img src="https://user-images.githubusercontent.com/85077262/195754101-8a3ca706-7e7f-48ef-9497-f6d56f82d5c7.png" width="35px">
   <a href="https://www.hostinger.com/tutorials/what-is-html" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>&nbsp
   <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -22,6 +22,7 @@
   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img src="https://img.shields.io/badge/SQL-34567C?style=for-the-badge&logo=Adminer&logoColor=4facfe"></a>&nbsp
   <br>
   <br>
+<!-- 사용하는 프로그램 --> 
   <img src="https://user-images.githubusercontent.com/85077262/195753286-d23bf29a-b6fe-42a4-8df8-4fd95488b6e6.png" width="25px">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>&nbsp
   <a href="https://atom.io/" target="_blank"><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"></a>&nbsp
@@ -35,7 +36,8 @@
 </p>
 
 <br>
-                                                                                                    
+
+<!-- 내 정보 --> 
 <h3 align="center"> 🧸 Me 🧸 </h3>
                   
 <p align="center">
@@ -45,6 +47,7 @@
 </p>
 <br>
 
+<!-- 깃허브 조회 수 --> 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoolgutree&count_bg=%238EC5FC&title_bg=%23DADADB&icon=github.svg&icon_color=%23888888&title=Hits&edge_flat=false"/></a>
 </p>
