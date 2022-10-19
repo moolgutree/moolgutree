@@ -7,7 +7,7 @@
 <!-- OSS 팀 -->
 <p align="center">
   <br> 
-  <a href="https://github.com/QBteamOSS" target="_blank"><img src="https://img.shields.io/badge/QB%20team%20OSS-fbfcdb?style=for-the-badge&logo=Apostrophe&logoColor=e9defa"/></a>
+  <a href="https://github.com/QBteamOSS" target="_blank"><img src="https://img.shields.io/badge/QB%20team%20OSS-e9defa?style=for-the-badge&logo=Apostrophe&logoColor=fbfcdb"/></a>
   <br>
   <br>
 <!-- 배우거나 이미 배운 프로그램 언어 -->  
