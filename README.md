@@ -54,4 +54,4 @@
 
    
 <!-- 교수님 깃허브 배우는 레포지토리 -->
-<a href="https://github.com/ai7dnn/OSS-lect" target="_blank"> <img src="https://img.shields.io/badge/OSSlect-3776AB?style=for-the-badge&logo=OSSlect&logoColor=blue"></a>&nbsp
+<a href="https://github.com/ai7dnn/OSS-lect" target="_blank"> <img src="https://img.shields.io/badge/OSSlect-3776AB?style=for-the-badge&logo=OSSlect&logoColor=blue"></a>
