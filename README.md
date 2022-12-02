@@ -51,3 +51,7 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoolgutree&count_bg=%238EC5FC&title_bg=%23DADADB&icon=github.svg&icon_color=%23888888&title=Hits&edge_flat=false"/></a>
 </p>
+
+   
+<!-- 교수님 깃허브 배우는 레포지토리 -->
+<a href="https://github.com/ai7dnn/OSS-lect" target="_blank"> <img src="https://img.shields.io/badge/OSSlect-3776AB?style=for-the-badge&logo=OSSlect&logoColor=blue"></a>&nbsp
