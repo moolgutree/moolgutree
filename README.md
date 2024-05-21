@@ -41,7 +41,6 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
                   
 <p align="center">
-  <a href="https://twitter.com/moolgutree?t=BIiSFLKCjrmOZMhupXJJWg&s=09"><img src="https://img.shields.io/badge/Twitter-6AFDEF?style=flat-square&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/moolgutree?t=BIiSFLKCjrmOZMhupXJJWg&s=09"/></a>&nbsp
   <a href="https://www.instagram.com/moolgutree/"><img src="https://img.shields.io/badge/Instagram-6AFDEF?style=flat-square&logo=Instagram&logoColor=F05032&link=https://www.instagram.com/moolgutree/"/></a>&nbsp
   <a href="mailto:brave3633@naver.com"><img src="https://img.shields.io/badge/Mail(Naver)-6AFDEF?style=flat-square&logo=Mail.Ru&logoColor=03C75A&link=brave3633@naver.com"/></a>
 </p>
@@ -54,4 +53,4 @@
 
    
 <!-- 교수님 깃허브 배우는 레포지토리 -->
-<a href="https://github.com/ai7dnn/OSS-lect" target="_blank"> <img src="https://img.shields.io/badge/My_Professor-3776AB?style=for-the-badge&logo=MyProfesser&logoColor=blue"></a>
+<a href="https://github.com/ai7dnn" target="_blank"> <img src="https://img.shields.io/badge/My_Professor-3776AB?style=for-the-badge&logo=MyProfesser&logoColor=blue"></a>
